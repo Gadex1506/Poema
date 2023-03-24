@@ -1,0 +1,74 @@
+body {
+    background-color: #202425;
+}
+
+.cajas{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.caja1 {
+    background-color: #C7CEEA;
+    font-size: 1.5rem;
+    width: 280px;
+    height: 150x;
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+}
+
+.caja2 {
+    background-color: #B5EAD7;
+    font-size: 1.5rem;
+    width: 280px;
+    height: 150x;
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+}
+.caja3 {
+    background-color: rgb(226, 240, 203);
+    font-size: 1.5rem;
+    width: 280px;
+    height: 150x;
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+}
+.caja4 {
+    background-color: #FFDAC1;
+    font-size: 1.5rem;
+    width: 280px;
+    height: 150x;
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+}
+.caja5 {
+    background-color: #FFB7B2;
+    font-size: 1.5rem;
+    width: 280px;
+    height: 150x;
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+}
+
+.caja6 {
+    background-color: #FF9AA2;
+    font-size: 1.5rem;
+    width: 280px;
+    height: 150x;
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+}
+
+.caja7 {
+    background-color: rgb(199, 206, 234);
+    font-size: 1.5rem;
+    width: 280px;
+    height: 150x;
+    text-align: center;
+    margin: auto;
+    padding: .5%;
+}
